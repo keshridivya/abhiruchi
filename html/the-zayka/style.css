@@ -2,22 +2,22 @@
     float:right;
 }
 .enquirybtn {
-    background: #e93e21;
+    background: #f39a1e;
     padding: 7px;
     border-radius: 5px;
 }
 
 .enquirybtn:hover {
     background: none;
-    color: #e93e21;
-    border-radius: 1px solid #e93e21;
+    color: #f39a1e;
+    border-radius: 1px solid #f39a1e;
 }
 
 .btn-close {
     position: absolute;
     top: 0;
     right: 0;
-    border: 1px solid #e93e21;
+    border: 1px solid #f39a1e;
     padding: 10px;
 
 }
