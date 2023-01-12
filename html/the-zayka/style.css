@@ -1,0 +1,246 @@
+.float-right{
+    float:right;
+}
+.enquirybtn {
+    background: #e93e21;
+    padding: 7px;
+    border-radius: 5px;
+}
+
+.enquirybtn:hover {
+    background: none;
+    color: #e93e21;
+    border-radius: 1px solid #e93e21;
+}
+
+.btn-close {
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: 1px solid #e93e21;
+    padding: 10px;
+
+}
+
+.sliderul{
+    background-image:url(revolution/assets/a617d-slider2-bg.jpg) !important;
+    position: relative;
+}
+
+.slider_parallax{
+    position: absolute;
+    visibility: visible;
+    left: 10vw;
+    top: 82vh;
+    z-index: 6;
+}
+.slider_mask{
+    position: absolute;
+    overflow: visible;
+    height: auto;
+    width: auto;
+}
+.slide_img{
+    width: 13.6vw;
+    height: 30.5vh;
+    transition: none 0s ease 0s;
+    line-height: 0px;
+    border-width: 0px;
+    margin: 0px;
+    padding: 0px;
+    letter-spacing: 0px;
+    font-weight: 400;
+    font-size: 10px;
+}
+.slider_parallax_2{
+    position: absolute;
+    visibility: visible;
+    left:77vw;
+    top: 82vh;
+    z-index: 7;
+}
+.slider_parallax_3{
+    position: absolute;
+    visibility: visible;
+    left: 15vw;
+    top: 57vh;
+    z-index: 9;
+}
+.slide_img_2{
+    width: 70vw;
+    height: 44vh;
+    transition: none 0s ease 0s;
+    line-height: 0px;
+    border-width: 0px;
+    margin: 0px;
+    padding: 0px;
+    letter-spacing: 0px;
+    font-weight: 400;
+    font-size: 10px;
+}
+.slider_parallax_4{
+    position: absolute;
+    visibility: visible;
+    left: 19vw;
+    top: 40vh;
+    z-index: 0;
+}
+.slider_parallax_5{
+    position: absolute;
+    visibility: visible;
+    left: 31vw;
+    top: 54vh;
+    z-index: 11;
+}
+.slide_img_3{
+    width: 36.6vw;
+    height: 78vh;
+    transition: none 0s ease 0s;
+    line-height: 0px;
+    border-width: 0px;
+    margin: 0px;
+    padding: 0px;
+    letter-spacing: 0px;
+    font-weight: 400;
+    font-size: 10px;
+}
+.slide_img_3{animation:fadeInUp1 2s ease backwards;
+    animation-delay: 1s;}
+@keyframes fadeInUp1{
+  0%{transform:translate(0px, 100px); opacity: 0;}
+  100%{transform:translate(0px, 0); opacity: 1;}
+}
+.fade_in{
+    animation:fadeInUp2 2s ease backwards;
+    animation-delay: 2s;}
+@keyframes fadeInUp2{
+  0%{transform:translate(0px, 100px); opacity: 0;}
+  100%{transform:translate(0px, 0); opacity: 1;}
+}
+.fade_in_2{
+    animation:fadeInUp3 2s ease backwards;
+    animation-delay: 3s;}
+@keyframes fadeInUp3{
+  0%{transform:translate(0px, 100px); opacity: 0;}
+  100%{transform:translate(0px, 0); opacity: 1;}
+}
+.fade-right{
+    animation:fadeLeft 2s ease backwards;
+    animation-delay: 4s;}
+    @keyframes fadeLeft{
+        0%{transform:translateX(100px); opacity: 0;}
+        100%{transform:translateX(); opacity: 1;}
+}
+.fade_left{
+    animation:fade_left 2s ease backwards;
+    animation-delay: 4s;}
+@keyframes fade_left{
+  0%{transform:translateX(-60px); opacity: 0;}
+  100%{transform:translate(0px, 0); opacity: 1;}
+}
+.fade_down{
+    animation:fade_down 2s ease backwards;
+    animation-delay: 4s;}
+    @keyframes fade_down{
+        0%{transform:translateY(-60px); opacity: 0;}
+  100%{transform:translate(0px, 0); opacity: 1;}
+}
+/* .slider_mask */
+.fadecycle{
+    animation:fadecycle 9s infinite;
+animation-delay: 7s;
+animation-timing-function: linear;
+}
+    @keyframes fadecycle{
+        0%{left: 10vw; top: 82vh;  opacity: 1;}
+        20%{left: 19vw; top: 40vh;}
+        40%{left: 42vw; top: 21vh;}
+        60%{left: 64vw; top: 40vh;}
+        80%{left: 77vw; top: 82vh;}
+        100%{left: 10vw; top: 120vh; }
+}
+.fadecycle2{
+    animation:fadecycle2 9s infinite;
+animation-delay: 7s;
+animation-timing-function: linear;}
+    @keyframes fadecycle2{
+        0%{left: 19vw; top: 40vh;  opacity: 1;}
+        20%{left: 42vw; top: 21vh;}
+        40%{left: 64vw; top: 40vh;}
+        60%{left: 77vw; top: 82vh;}
+        80%{left: 10vw; top: 120vh;}
+        100%{left: 19vw; top: 40vh;}
+}
+.fadecycle3{
+    animation:fadecycle3 9s infinite;
+animation-delay: 7s;
+animation-timing-function: linear;}
+    @keyframes fadecycle3{
+        0%{left: 42vw; top: 21vh;  opacity: 1;}
+        20%{left: 64vw; top: 40vh;}
+        40%{left: 77vw; top: 82vh;}
+        60%{left: 10vw; top: 120vh;}
+        80%{left: 19vw; top: 40vh;}
+        100%{left: 42vw; top: 21vh;}
+}
+.fadecycle4{
+    animation:fadecycle4 9s infinite;
+    animation-delay: 7s;
+    animation-timing-function: linear;}
+        @keyframes fadecycle4{
+            0%{left: 64vw; top: 40vh;  opacity: 1;}
+            20%{left: 77vw; top: 82vh;}
+            40%{left: 10vw; top: 120vh;}
+            60%{left: 19vw; top: 40vh;}
+            80%{left: 42vw; top: 21vh;}
+            100%{left: 64vw; top: 40vh;}
+}
+.fadecycle5{
+    animation:fadecycle5 9s infinite;
+    animation-delay: 7s;
+    animation-timing-function: linear;}
+        @keyframes fadecycle5{
+            0%{left: 77vw; top: 82vh;}
+            20%{left: 10vw; top: 120vh;}
+            40%{left: 19vw; top: 40vh;}
+            60%{left: 42vw; top: 21vh;}
+            80%{left: 64vw; top: 40vh;}
+            100%{left: 77vw; top: 82vh;}
+}
+.slider_parallax_6{
+    position: absolute;
+    visibility: visible;
+    left: 64vw;
+    top: 40vh;
+    z-index: 0;
+}
+.slider_parallax_7{
+    position: absolute;
+    visibility: visible;
+    left: 42vw;
+    top: 21vh   ;
+    z-index: 0;
+}
+.slider_parallax1{
+    position: absolute;
+    visibility: visible;
+    left: -20vw;
+    top: 25px;
+    z-index: 5;
+}
+.slide_img_1{
+    width: 125vw;
+    height: 100vh;
+    transition: none 0s ease 0s;
+    line-height: 0px;
+    border-width: 0px;
+    margin: 0px;
+    padding: 0px;
+    letter-spacing: 0px;
+    font-weight: 400;
+    font-size: 10px;
+}
+.slider{
+    height: 100vh;
+    overflow: hidden;
+}

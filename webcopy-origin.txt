@@ -1,0 +1,1100 @@
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/about.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\about.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/blog-fullwidth.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\blog-fullwidth.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/blog-left-sidebar.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\blog-left-sidebar.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/blog-masonry-2-column.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\blog-masonry-2-column.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/blog-masonry-3-column.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\blog-masonry-3-column.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/blog-masonry-4-column.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\blog-masonry-4-column.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/blog-masonry-left-sidebar.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\blog-masonry-left-sidebar.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/blog-masonry-right-sidebar.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\blog-masonry-right-sidebar.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/blog-right-sidebar.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\blog-right-sidebar.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/blog-single-01.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\blog-single-01.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/blog-single-02.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\blog-single-02.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/book-a-table.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\book-a-table.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/coming-soon.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\coming-soon.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/contact.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\contact.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/css/book/component.css
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\css\book\component.css
+Content Type: text/css
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/css/bootstrap-datetimepicker.min.css
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\css\bootstrap-datetimepicker.min.css
+Content Type: text/css
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/css/bootstrap.min.css
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/css/flaticon.css
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\css\flaticon.css
+Content Type: text/css
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/css/font-awesome.min.css
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/css/magnific-popup/magnific-popup.css
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\css\magnific-popup\magnific-popup.css
+Content Type: text/css
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/css/mega-menu/mega_menu.css
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\css\mega-menu\mega_menu.css
+Content Type: text/css
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/css/owl-carousel/owl.carousel.min.css
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\css\owl-carousel\owl.carousel.min.css
+Content Type: text/css
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/css/responsive.css
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\css\responsive.css
+Content Type: text/css
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/css/style-customizer.css
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\css\style-customizer.css
+Content Type: text/css
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/css/style.css
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\css\style.css
+Content Type: text/css
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/elements-accordion.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\elements-accordion.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/elements-alerts-and-callouts.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\elements-alerts-and-callouts.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/elements-blockquote.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\elements-blockquote.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/elements-button.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\elements-button.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/elements-carousel-slider.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\elements-carousel-slider.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/elements-clients.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\elements-clients.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/elements-column.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\elements-column.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/elements-counter.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\elements-counter.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/elements-feature-box.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\elements-feature-box.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/elements-list-style.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\elements-list-style.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/elements-page-title-center.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\elements-page-title-center.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/elements-page-title-fixed.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\elements-page-title-fixed.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/elements-page-title-left.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\elements-page-title-left.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/elements-page-title-parallax.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\elements-page-title-parallax.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/elements-page-title-right.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\elements-page-title-right.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/elements-pricing.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\elements-pricing.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/elements-progress-bar.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\elements-progress-bar.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/elements-tab.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\elements-tab.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/elements-team.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\elements-team.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/elements-testimonial.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\elements-testimonial.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/error-404.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\error-404.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/fonts/Flaticon.eot
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\fonts\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/fonts/Flaticon.eot?
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\fonts\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/fonts/Flaticon.svg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\fonts\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/fonts/Flaticon.ttf
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\fonts\Flaticon.ttf
+Content Type: font/ttf
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/fonts/Flaticon.woff
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\fonts\Flaticon.woff
+Content Type: font/woff
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/fonts/fontawesome-webfont.eot?v=4.6.3
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/fonts/fontawesome-webfont.svg?v=4.6.3
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/fonts/fontawesome-webfont.ttf?v=4.6.3
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/fonts/fontawesome-webfont.woff2?v=4.6.3
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/fonts/fontawesome-webfont.woff?v=4.6.3
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/gallery-2-column.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\gallery-2-column.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/gallery-3-column.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\gallery-3-column.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/gallery-4-column.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\gallery-4-column.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/about/01.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\about\01.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/about/02.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\about\02.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/about/03.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\about\03.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/ajax-loader.gif
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/arrow.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\arrow.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/bg/01.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\bg\01.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/bg/02.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\bg\02.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/bg/03.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\bg\03.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/bg/04.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\bg\04.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/bg/05.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\bg\05.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/bg/06.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\bg\06.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/bg/07.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\bg\07.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/bg/08.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\bg\08.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/bg/09.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\bg\09.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/bg/10.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\bg\10.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/client-arrow.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\client-arrow.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/client/01.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\client\01.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/client/02.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\client\02.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/client/03.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\client\03.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/client/04.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\client\04.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/client/05.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\client\05.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/dish/01.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\dish\01.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/dish/02.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\dish\02.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/dish/03.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\dish\03.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/dish/04.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\dish\04.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/dish/05.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\dish\05.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/dish/06.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\dish\06.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/dish/07.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\dish\07.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/dish/08.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\dish\08.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/dish/09.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\dish\09.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/dish/10.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\dish\10.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/dish/11.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\dish\11.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/dish/12.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\dish\12.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/dish/13.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\dish\13.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/dish/14.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\dish\14.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/dish/15.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\dish\15.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/dish/16.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\dish\16.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/event/01.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\event\01.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/event/02.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\event\02.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/event/03.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\event\03.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/event/04.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\event\04.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/event/05.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\event\05.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/event/06.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\event\06.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/event/07.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\event\07.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/favicon.ico
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/feature/01.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\feature\01.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/feature/02.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\feature\02.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/feature/03.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\feature\03.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/feature/04.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\feature\04.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/gallery/01.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\gallery\01.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/gallery/02.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\gallery\02.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/gallery/03.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\gallery\03.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/gallery/04.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\gallery\04.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/gallery/05.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\gallery\05.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/gallery/06.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\gallery\06.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/gallery/07.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\gallery\07.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/gallery/08.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\gallery\08.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/gallery/09.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\gallery\09.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/gallery/10.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\gallery\10.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/gallery/11.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\gallery\11.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/gallery/12.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\gallery\12.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/image-404.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\image-404.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/info-bg.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\info-bg.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/loader.gif
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\loader.gif
+Content Type: image/gif
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/logo-dark.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\logo-dark.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/logo-white.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\logo-white.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/logo.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\logo.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/menu/arrow.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\menu\arrow.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/menu/book-logo.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\menu\book-logo.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/menu/menu-cover.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\menu\menu-cover.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/object/01.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\object\01.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/object/02.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\object\02.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/object/03.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\object\03.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/object/04.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\object\04.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/object/05.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\object\05.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/object/06.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\object\06.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/object/07.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\object\07.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/object/08.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\object\08.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/object/09.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\object\09.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/object/10.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\object\10.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/object/11.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\object\11.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/object/12.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\object\12.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/object/13.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\object\13.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/object/14.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\object\14.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/object/15.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\object\15.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/object/16.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\object\16.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/pattern/01.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\pattern\01.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/pattern/02.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\pattern\02.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/pattern/04.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\pattern\04.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/team/01.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\team\01.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/team/02.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\team\02.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/team/03.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\team\03.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/team/04.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\team\04.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/team/05.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\team\05.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/team/06.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\team\06.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/team/07.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\team\07.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/images/team/08.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\images\team\08.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/index-2.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\index-2.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/index-3.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\index-3.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/index-4.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\index-4.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/index-5.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\index-5.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/index.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\index.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/js/book/bookblock.min.js
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\js\book\bookblock.min.js
+Content Type: application/javascript
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/js/book/modernizr.custom.js
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\js\book\modernizr.custom.js
+Content Type: application/javascript
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/js/bootstrap.min.js
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/js/countdown/jquery.downCount.js
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\js\countdown\jquery.downCount.js
+Content Type: application/javascript
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/js/counter/jquery.countTo.js
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\js\counter\jquery.countTo.js
+Content Type: application/javascript
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/js/custom.js
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\js\custom.js
+Content Type: application/javascript
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/js/datepicker/bootstrap-datetimepicker.min.js
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\js\datepicker\bootstrap-datetimepicker.min.js
+Content Type: application/javascript
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/js/isotope/isotope.pkgd.min.js
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\js\isotope\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/js/jquery-3.6.0.min.js
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\js\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/js/jquery-select.js
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\js\jquery-select.js
+Content Type: application/javascript
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/js/jquery.appear.js
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\js\jquery.appear.js
+Content Type: application/javascript
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/js/jquery.nicescroll.min.js
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\js\jquery.nicescroll.min.js
+Content Type: application/javascript
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/js/mega-menu/mega_menu.js
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\js\mega-menu\mega_menu.js
+Content Type: application/javascript
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/js/owl-carousel/owl.carousel.min.js
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\js\owl-carousel\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/js/popper.min.js
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\js\popper.min.js
+Content Type: application/javascript
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/js/popup/jquery.magnific-popup.js
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\js\popup\jquery.magnific-popup.js
+Content Type: application/javascript
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/js/style-customizer.js
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\js\style-customizer.js
+Content Type: application/javascript
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/js/video/jquery.vide.js
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\js\video\jquery.vide.js
+Content Type: application/javascript
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/menu-style-1.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\menu-style-1.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/menu-style-2.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\menu-style-2.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/menu-style-3.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\menu-style-3.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/page-both-sidebar.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\page-both-sidebar.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/page-left-sidebar.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\page-left-sidebar.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/page-right-sidebar.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\page-right-sidebar.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/privacy-policy.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\privacy-policy.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/reservation-form.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\reservation-form.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/01354-slider-bg3.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\01354-slider-bg3.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/06df7-img6.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\06df7-img6.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/0c19e-img-bg.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\0c19e-img-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/0cbf2-slider-bg.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\0cbf2-slider-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/13e8a-img20.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\13e8a-img20.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/180f2-img12.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\180f2-img12.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/1a059-b62eb-img1.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\1a059-b62eb-img1.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/1c8fc-slider-bg.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\1c8fc-slider-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/1f88e-slide2-img.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\1f88e-slide2-img.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/2357d-img3.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\2357d-img3.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/2db18-img2.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\2db18-img2.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/2ec3a-img22.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\2ec3a-img22.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/3017c-slide1-img.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\3017c-slide1-img.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/32168-img4.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\32168-img4.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/3568d-img7.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\3568d-img7.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/3a3e6-img-bg3.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\3a3e6-img-bg3.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/40d13-img4.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\40d13-img4.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/46b0a-img19.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\46b0a-img19.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/50362-img21.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\50362-img21.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/57034-slide2-img3.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\57034-slide2-img3.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/590dd-img6.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\590dd-img6.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/614d2-img18.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\614d2-img18.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/6302a-img14.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\6302a-img14.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/6ffd8-slide2-img2.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\6ffd8-slide2-img2.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/74ce9-img2.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\74ce9-img2.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/77f8c-slide2-img4.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\77f8c-slide2-img4.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/81c5a-img16.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\81c5a-img16.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/88368-img2.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\88368-img2.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/92109-slide2-img8.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\92109-slide2-img8.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/93d6a-img13.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\93d6a-img13.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/994ec-slider-bg2.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\994ec-slider-bg2.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/9ca0a-img17.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\9ca0a-img17.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/9fb8a-slide2-bg.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\9fb8a-slide2-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/a23f6-img-b2.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\a23f6-img-b2.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/a2d58-img9.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\a2d58-img9.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/a617d-slider2-bg.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\a617d-slider2-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/ae425-img5.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\ae425-img5.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/ae80a-img8.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\ae80a-img8.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/b043c-img11.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\b043c-img11.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/b19fa-img15.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\b19fa-img15.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/b4c34-slide2-img5.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\b4c34-slide2-img5.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/bcac6-slide2-img1.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\bcac6-slide2-img1.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/bcc28-img5.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\bcc28-img5.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/bf8a2-img10.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\bf8a2-img10.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/bfd2d-img1.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\bfd2d-img1.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/c78fc-slide2-img6.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\c78fc-slide2-img6.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/cc58a-main-img.jpg
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\cc58a-main-img.jpg
+Content Type: image/jpeg
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/dc11c-slide2-img7.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\dc11c-slide2-img7.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/ef0d8-img3.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\ef0d8-img3.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/loader.gif
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\loader.gif
+Content Type: image/gif
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/assets/transparent.png
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\assets\transparent.png
+Content Type: image/png
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/css/navigation.css
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\css\navigation.css
+Content Type: text/css
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/css/settings.css
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\css\settings.css
+Content Type: text/css
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/fonts/revicons/revicons.eot?5510888
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/fonts/revicons/revicons.svg?5510888
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/fonts/revicons/revicons.ttf?5510888
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\fonts\revicons\revicons.ttf
+Content Type: font/ttf
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/fonts/revicons/revicons.woff?5510888
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\fonts\revicons\revicons.woff
+Content Type: font/woff
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/js/extensions/revolution.extension.actions.min.js
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\js\extensions\revolution.extension.actions.min.js
+Content Type: application/javascript
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/js/extensions/revolution.extension.carousel.min.js
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\js\extensions\revolution.extension.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/js/extensions/revolution.extension.kenburn.min.js
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\js\extensions\revolution.extension.kenburn.min.js
+Content Type: application/javascript
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/js/extensions/revolution.extension.layeranimation.min.js
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\js\extensions\revolution.extension.layeranimation.min.js
+Content Type: application/javascript
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/js/extensions/revolution.extension.migration.min.js
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\js\extensions\revolution.extension.migration.min.js
+Content Type: application/javascript
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/js/extensions/revolution.extension.navigation.min.js
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\js\extensions\revolution.extension.navigation.min.js
+Content Type: application/javascript
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/js/extensions/revolution.extension.parallax.min.js
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\js\extensions\revolution.extension.parallax.min.js
+Content Type: application/javascript
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/js/extensions/revolution.extension.slideanims.min.js
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\js\extensions\revolution.extension.slideanims.min.js
+Content Type: application/javascript
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/js/extensions/revolution.extension.video.min.js
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\js\extensions\revolution.extension.video.min.js
+Content Type: application/javascript
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/js/jquery.themepunch.revolution.min.js
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\js\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/js/jquery.themepunch.tools.min.js
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\js\jquery.themepunch.tools.min.js
+Content Type: application/javascript
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/revolution/js/revolution-custom.js
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\revolution\js\revolution-custom.js
+Content Type: application/javascript
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/service.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\service.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/terms-and-conditions.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\terms-and-conditions.html
+Content Type: text/html
+
+Uri: http://themes.potenzaglobalsolutions.com/html/the-zayka/typography.html
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\html\the-zayka\typography.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i|Amatic+SC:400,700|Lilita+One
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/amaticsc/v24/TUZ3zwprpvBS1izr_vOMscGKfrUH.ttf
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\s\amaticsc\v24\TUZ3zwprpvBS1izr_vOMscGKfrUH.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/amaticsc/v24/TUZyzwprpvBS1izr_vOECuSa.ttf
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\s\amaticsc\v24\TUZyzwprpvBS1izr_vOECuSa.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lilitaone/v13/i7dPIFZ9Zz-WBtRtedDbYEF8QA.ttf
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\s\lilitaone\v13\i7dPIFZ9Zz-WBtRtedDbYEF8QA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Users\POOJA\Documents\website template\themes.potenzaglobalsolutions.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
